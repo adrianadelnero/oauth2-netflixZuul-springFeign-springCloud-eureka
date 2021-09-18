@@ -46,6 +46,9 @@ Create table and insert rows:
 - student/src/main/resources/data.sql
 - teacher/src/main/resources/data.sql
 
+Spring Eureka console: 
+http://localhost:8761/
+
 Curl by direct service:
 
 http://localhost:8801/3/students
