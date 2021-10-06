@@ -13,6 +13,8 @@ Gateway with eureka balance and oauth2 authentication - microservices
 
 ##Requirements
 Install JDK 8
+Docker
+Maven
 
 #Start docker
 ```shell
