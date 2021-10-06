@@ -1,4 +1,4 @@
-package com.ms.teacher;
+package com.ms.teacher.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

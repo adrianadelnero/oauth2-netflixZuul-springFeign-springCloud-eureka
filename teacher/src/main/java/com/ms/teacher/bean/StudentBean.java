@@ -1,4 +1,4 @@
-package com.ms.teacher;
+package com.ms.teacher.bean;
 
 
 import lombok.Data;
